@@ -1,7 +1,7 @@
 """
 Task
 
- is a shoe shop owner. His shop has  number of shoes.
+Raghu is a shoe shop owner. His shop has  number of shoes.
 He has a list containing the size of each shoe he has in his shop.
 There are  number of customers who are willing to pay  amount of money only if they get the shoe of their desired size.
 
@@ -47,7 +47,7 @@ Customer 4: Purchased size 4 shoe for $40.
 Customer 5: Purchased size 18 shoe for $60.
 Customer 6: Size 10 not available, so no purchase.
 
-Total money earned =  
+Total money earned =  55 + 45 + 40 + 60 = 200  
 """
 
 # code -----------------------------
